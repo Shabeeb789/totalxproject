@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "539946444022",
+    "project_id": "totalx-work",
+    "storage_bucket": "totalx-work.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539946444022:android:71f9f292ffb4f194eff8d7",
+        "android_client_info": {
+          "package_name": "com.example.total_x_work"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539946444022-jv6t3nc9pfbqp2q5dd4t6d0rur925mp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Y-FVla5wKWhhUGbSfrZl1zApMi1FGeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539946444022-jv6t3nc9pfbqp2q5dd4t6d0rur925mp7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "539946444022-96g8f9bi9bol6kq1k5nttiekab11df1a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.totalXWork"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
